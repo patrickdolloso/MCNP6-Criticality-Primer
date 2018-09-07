@@ -1,6 +1,7 @@
 # MCNP6 Criticality Primer
 
 ## Details
+* [Github Location](https://github.com/patrickdolloso/MCNP6-Criticality-Primer): https://github.com/patrickdolloso/MCNP6-Criticality-Primer
 * Prepared By: Patrick Dolloso
 * Last Updated: Sep 7 2018
 
