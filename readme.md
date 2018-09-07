@@ -9,7 +9,8 @@
 This is a personal portfolio from my training at International Safety Research Inc. on Nuclear Modeling using the Monte Carlo N-Particle Transport Code, version 6 (MCNP) using examples from the Criticality Primer
 
 ### File Contents
-1. [Case Matrix]()
-2. [MCNP Example Runs]()
+1. [Case Matrix](https://github.com/patrickdolloso/MCNP6-Criticality-Primer/blob/master/Case%20Matrix.xlsx)
+2. [MCNP Example Runs](https://github.com/patrickdolloso/MCNP6-Criticality-Primer/tree/master/MCNP%20Example%20Runs)
 3. [MCNP Personal Projects]()
-4. Readme
+4. [Template](https://github.com/patrickdolloso/MCNP6-Criticality-Primer/blob/master/Template.i)
+5. Readme
