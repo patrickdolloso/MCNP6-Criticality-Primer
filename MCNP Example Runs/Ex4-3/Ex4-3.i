@@ -23,7 +23,7 @@ c      Sides of tank
 8 px -16.5    $ side of tank
 9 px  43.5    $ side of tank
 10 py -26.5    $ side of tank
-11 py 26.5    $ side of tank
+999 0  -10:11:-8:9:-7:3  imp:n=0 $ void universe
 
 c Blank Line
 c Data Cards
