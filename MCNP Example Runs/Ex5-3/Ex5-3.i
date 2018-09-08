@@ -1,4 +1,4 @@
-Title Here (1 line)
+Ex5-3: Square Lattice of 3x2 Pu Cylinders
 c Cell Cards
 c cylinder container cells
 1 1 0.09927 -1 5 -6 u=1 imp:n=1 $ universe 1: Pu-Ni solution
