@@ -9,8 +9,8 @@ c Universe
 c Blank Line
 c Pu Cylinder
 1 cx 4.935 $ Pu cylinder
-2 pz 0     $ Bottom of cylinder
-3 pz 6.909 $ Top of cylinder
+2 px 0     $ Bottom of cylinder
+3 px 6.909 $ Top of cylinder
 c Reflector
 4 cx 9.935 $ Radial U reflector
 
