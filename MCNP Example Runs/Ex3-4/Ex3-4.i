@@ -12,21 +12,21 @@ c Blank Line
 c Surface Cards
 c UO2F2 Sol'n cylinder
 1 cz 20.12   $ UO2F2 Soln
-2 pz 0       $ Bottom of soln cylinder
-3 pz 100     $ Top of soln cylinder
+2 cz 20.2787 $ Case
+3 pz 0       $ Bottom of soln cylinder
 c Case
-4 cz 20.2787 $ Case
-5 pz -0.1587 $ U Reflector bottom
-6 pz 110     $ U Reflector top
+4 pz 100     $ Top of soln cylinder
+5 pz 110     $ U Reflector top
+6 pz -0.1587 $ U Reflector bottom
 
 c Blank Line
 c Data Cards
 c   Criticality Control Cards
-$ kcode 5000 1.0 50 250
+kcode 5000 1 50 250 $ This is a k_eff estimation calculation card
 c   Source Cards
-$ ksrc 0 0 0
+ksrc 0 0 50 $ 1 point source @ (0,0,50)
 c   Material Cards
 m1 1001.62c 0.057058 8016.62c 0.032929 9019.62c 0.0043996 
-     92238.66c 0.0020909 92235.66c 0.00010889 1 $ UO2F2
+     92238.66c 0.0020909 92235.66c 0.00010889 $ UO2F2
 m2 13027.62c 1  $ Al Case
 mt1 lwtr.60t  $ Light Water
